@@ -1,1 +1,2 @@
-"Hola soy una nuevo archivo" 
+Hola soy un nuevo archivo
+Así sin comillas y sin fallos ortográficos mucho mejor 
